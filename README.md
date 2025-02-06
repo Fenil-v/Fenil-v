@@ -1,5 +1,5 @@
 # 👋, Hello, I'm Fenil Vaghasiya
-<br><br> 🔭 I’m currently working on Valadia-ai<br><br> 🌱 I’m currently learning Cloud Automation Deployment Technologies and Tools<br><br> 👯 I’m looking to collaborate on Building scalable Java applications and backend development projects<br><br> 💬 Ask me about Web development tools, technologies, and AWS cloud services<br><br> 📫 How to reach me vaghasiya.f@northeastern.edu
+<br><br> 🔭 I’m currently Persuing Masters from Northeastern University in Software Engineering<br><br> 🌱 I’m currently learning Cloud Automation Deployment Technologies and Tools<br><br> 👯 I’m looking to collaborate on Building scalable Java applications and backend development projects<br><br> 💬 Ask me about Web development tools, technologies, and AWS cloud services<br><br> 📫 How to reach me vaghasiya.f@northeastern.edu
 
 
 ## 🌐 Socials:
